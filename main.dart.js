@@ -80112,7 +80112,7 @@ if(r==null)r=B.H
 p.hQ(A.aGo(null,r,!0,null,new A.a2r(this.a),q,null,s,B.yW,!0,t.z))},
 $S:0}
 A.a2r.prototype={
-$1(a){return new A.qd(B.SJ,A.b([A.fq(B.SH,new A.a2p(this.a,a),null),A.tL(B.Sv,new A.a2q(a),null)],t.p),null)},
+$1(a){return new A.qd(B.SJ,A.b([A.fq(B.SI,new A.a2p(this.a,a),null),A.tL(B.Sw,new A.a2q(a),null)],t.p),null)},
 $S:516}
 A.a2p.prototype={
 $0(){var s,r,q="[DEFAULT]",p=$.bk,o=(p==null?$.bk=$.cW():p).d3(q)
@@ -80218,10 +80218,10 @@ s.E$=r
 s.C$=0},
 J(a){var s,r,q=this,p=null,o=A.bc(a,B.bq,t.w).w,n=A.lK("resources/images/upwork-freelance-1.png",300,300),m=t.p
 n=A.lk(A.b([new A.c4(B.d6,A.fq(B.yL,new A.ak1(a),A.a00(p,p,B.dX,p,p,p,p,p,p,B.j,p,p,p,p,p,p,p,p,p)),p)],m),B.cn,p,n)
-s=A.pq(q.e,B.mK,B.Oe,1,p,!1,new A.ak2())
+s=A.pq(q.e,B.mK,B.yE,1,p,!1,new A.ak2())
 r=A.pq(q.f,B.mJ,p,1,p,!0,new A.ak3())
-o=q.r?B.d1:A.fq(B.Sz,new A.ak4(q,a),A.ln(p,p,p,B.eY,p,p,p,p,B.eZ,p,p,p,new A.ba(new A.A(o.a.a,50),t.x0),p,p,p,p,p,p,p,p,p,p,p))
-return A.tm(n,A.tB(new A.cJ(B.G,p,p,A.XG(A.ew(p,A.arz(A.hK(A.b([B.b2,B.Bj,B.ef,s,B.aM,r,B.ef,o,B.b2,A.dW(A.b([B.SI,B.bK,A.tL(B.St,new A.ak5(a),p)],m),B.R,B.h7,B.aN)],m),B.b7,B.L,B.al),q.d),B.u,B.f7,p,p,p,p,B.eb,p,p,p),B.ea),p),p),p)}}
+o=q.r?B.d1:A.fq(B.SA,new A.ak4(q,a),A.ln(p,p,p,B.eY,p,p,p,p,B.eZ,p,p,p,new A.ba(new A.A(o.a.a,50),t.x0),p,p,p,p,p,p,p,p,p,p,p))
+return A.tm(n,A.tB(new A.cJ(B.G,p,p,A.XG(A.ew(p,A.arz(A.hK(A.b([B.b2,B.Bj,B.ef,s,B.aM,r,B.ef,o,B.b2,A.dW(A.b([B.St,B.bK,A.tL(B.Su,new A.ak5(a),p)],m),B.R,B.h7,B.aN)],m),B.b7,B.L,B.al),q.d),B.u,B.f7,p,p,p,p,B.eb,p,p,p),B.ea),p),p),p)}}
 A.ak1.prototype={
 $0(){A.eB(this.a,A.cX(new A.ak_(),null,t.z),new A.ak0())},
 $S:0}
@@ -80313,9 +80313,9 @@ s=A.pq(o.f,B.EJ,n,1,n,!1,new A.an_())
 r=A.pq(o.e,B.mK,B.yE,1,n,!1,new A.an0())
 q=A.pq(o.r,B.mJ,n,1,n,!0,new A.an1())
 p=o.w
-p=A.dW(A.b([A.auO(B.dW,B.j,B.Sx,new A.an2(o),!p,B.ez),B.aM,A.auO(B.dW,B.j,B.Sw,new A.an3(o),p,B.ez)],k),B.R,B.L,B.aN)
+p=A.dW(A.b([A.auO(B.dW,B.j,B.Sy,new A.an2(o),!p,B.ez),B.aM,A.auO(B.dW,B.j,B.Sx,new A.an3(o),p,B.ez)],k),B.R,B.L,B.aN)
 m=o.x?B.d1:A.fq(B.yL,new A.an4(o,a),A.ln(n,n,n,B.eY,n,n,n,n,B.eZ,n,n,n,new A.ba(new A.A(m.a.a,50),t.x0),n,n,n,n,n,n,n,n,n,n,n))
-return A.tm(l,A.tB(new A.cJ(B.G,n,n,A.XG(A.ew(n,A.arz(A.hK(A.b([B.Bi,B.ef,s,B.aM,r,B.aM,q,B.b2,p,B.ef,m,B.b2,A.dW(A.b([B.Sy,B.bK,A.tL(B.Su,new A.an5(a),n)],k),B.R,B.h7,B.aN)],k),B.b7,B.L,B.al),o.d),B.u,B.f7,n,n,n,n,B.eb,n,n,n),B.ea),n),n),n)}}
+return A.tm(l,A.tB(new A.cJ(B.G,n,n,A.XG(A.ew(n,A.arz(A.hK(A.b([B.Bi,B.ef,s,B.aM,r,B.aM,q,B.b2,p,B.ef,m,B.b2,A.dW(A.b([B.Sz,B.bK,A.tL(B.Sv,new A.an5(a),n)],k),B.R,B.h7,B.aN)],k),B.b7,B.L,B.al),o.d),B.u,B.f7,n,n,n,n,B.eb,n,n,n),B.ea),n),n),n)}}
 A.amZ.prototype={
 $0(){A.eB(this.a,A.cX(new A.amX(),null,t.z),new A.amY())},
 $S:0}
@@ -80468,7 +80468,7 @@ A.qw.prototype={
 J(a){var s,r,q,p,o,n=null,m="[DEFAULT]",l=A.bc(a,B.bq,t.w).w.a.a<600
 if(l)s=A.lk(n,n,new A.dT(new A.Y9(),n),n)
 else{s=A.lK("resources/images/upwork-freelance-1.png",300,300)
-s=A.lk(A.b([A.fq(B.SA,new A.Ya(a),A.a00(n,n,B.dX,n,n,n,n,n,n,B.j,n,n,n,n,n,n,n,n,n)),B.c8,A.qJ(new A.Yb(),t.d),B.c8,A.kd(n,B.eg,n,new A.Yc(a),n,n)],t.p),B.cn,n,s)}r=$.bk
+s=A.lk(A.b([A.fq(B.SB,new A.Ya(a),A.a00(n,n,B.dX,n,n,n,n,n,n,B.j,n,n,n,n,n,n,n,n,n)),B.c8,A.qJ(new A.Yb(),t.d),B.c8,A.kd(n,B.eg,n,new A.Yc(a),n,n)],t.p),B.cn,n,s)}r=$.bk
 q=(r==null?$.bk=$.cW():r).d3(m)
 r=$.dQ()
 A.bC(q,r,!0)
@@ -80540,7 +80540,7 @@ J(a){var s,r,q,p,o=this,n=null,m=A.lK("resources/images/upwork-freelance-1.png",
 m=A.lk(A.b([A.qJ(new A.akE(),t.d),B.c8,A.kd(n,B.eg,n,new A.akF(a),n,n)],l),B.cn,n,m)
 s=A.dW(A.b([B.mI,B.aM,A.c9("New Project Launch",n,n,n,B.Qe,n,n)],l),B.R,B.L,B.aN)
 r=A.pq(o.f,B.EL,n,1,n,!1,new A.akG())
-q=A.pq(o.e,B.EK,B.yE,10,5,!1,new A.akH())
+q=A.pq(o.e,B.EK,B.Oe,10,5,!1,new A.akH())
 p=A.pq(o.r,B.EI,n,1,n,!1,new A.akI())
 return A.tm(m,A.tB(new A.cJ(B.G,n,n,A.XG(A.ew(n,A.arz(A.hK(A.b([B.b2,s,B.aM,B.SL,B.b2,r,B.aM,q,B.aM,p,B.ef,o.w?B.d1:A.dW(A.b([A.fq(B.yN,new A.akJ(a),B.f8),B.c8,A.fq(B.SO,new A.akK(o,a),B.f8)],l),B.R,B.ey,B.aN),B.b2],l),B.b7,B.L,B.al),o.d),B.u,B.f7,n,n,n,n,B.eb,n,n,n),B.ea),n),n),n)}}
 A.akE.prototype={
@@ -80613,7 +80613,7 @@ $0(){return this.a.w=!1},
 $S:0}
 A.H4.prototype={
 J(a){var s=null,r=A.bc(a,B.bq,t.w).w
-return A.avN(A.hK(A.b([A.avO(A.lp(A.lK("resources/images/upwork-freelance-1.png",s,150),s,s)),A.qJ(new A.Y0(),t.d),new A.c4(B.DF,A.fq(B.SB,new A.Y1(a),A.ln(s,s,s,B.eY,s,s,s,s,B.eZ,s,s,s,new A.ba(new A.A(r.a.a,50),t.x0),s,s,s,s,s,s,s,s,s,s,s)),s),B.yn,B.zx,new A.cJ(B.i8,s,s,A.tL(B.yO,new A.Y2(a),s),s),B.aM],t.p),B.R,B.L,B.aN))}}
+return A.avN(A.hK(A.b([A.avO(A.lp(A.lK("resources/images/upwork-freelance-1.png",s,150),s,s)),A.qJ(new A.Y0(),t.d),new A.c4(B.DF,A.fq(B.SC,new A.Y1(a),A.ln(s,s,s,B.eY,s,s,s,s,B.eZ,s,s,s,new A.ba(new A.A(r.a.a,50),t.x0),s,s,s,s,s,s,s,s,s,s,s)),s),B.yn,B.zx,new A.cJ(B.i8,s,s,A.tL(B.yO,new A.Y2(a),s),s),B.aM],t.p),B.R,B.L,B.aN))}}
 A.Y0.prototype={
 $3(a,b,c){var s=null,r=b.a,q=r==null,p=q?s:r.c
 p=A.c9(p==null?"Anonymous":p,s,s,s,B.ks,s,s)
@@ -80748,7 +80748,7 @@ o=A.lk(A.b([A.qJ(new A.a4c(),t.d),B.c8,A.kd(p,B.eg,p,new A.a4d(a),p,p)],n),B.cn,
 s=this.c
 r=A.dW(A.b([B.mI,B.aM,A.c9(s.b,p,p,p,B.cb,p,p)],n),B.R,B.L,B.aN)
 q=s.c
-return A.tm(o,A.tB(new A.cJ(B.G,p,p,A.XG(A.ew(p,A.hK(A.b([B.b2,r,B.aM,A.c9(q==null?"No description provided.":q,p,p,p,p,p,p),B.b2,A.c9("Budget: "+s.f,p,p,p,B.dy,p,p),B.aM,B.Da,A.dW(A.b([A.fq(B.yN,new A.a4e(a),B.f8),B.bK,A.fq(B.SF,new A.a4f(this,a),B.f8)],n),B.R,B.L,B.al)],n),B.d3,B.L,B.al),B.u,B.f7,p,p,p,p,B.eb,p,p,p),B.ea),p),p),p)}}
+return A.tm(o,A.tB(new A.cJ(B.G,p,p,A.XG(A.ew(p,A.hK(A.b([B.b2,r,B.aM,A.c9(q==null?"No description provided.":q,p,p,p,p,p,p),B.b2,A.c9("Budget: "+s.f,p,p,p,B.dy,p,p),B.aM,B.Da,A.dW(A.b([A.fq(B.yN,new A.a4e(a),B.f8),B.bK,A.fq(B.SG,new A.a4f(this,a),B.f8)],n),B.R,B.L,B.al)],n),B.d3,B.L,B.al),B.u,B.f7,p,p,p,p,B.eb,p,p,p),B.ea),p),p),p)}}
 A.a4c.prototype={
 $3(a,b,c){var s=null,r=b.a,q=r==null?s:r.c
 return A.c9(q==null?"Anonymous":q,s,s,s,B.cb,s,s)},
@@ -80796,7 +80796,7 @@ q=A.r8(new A.ce(r))
 p=$.bk
 r=(p==null?$.bk=$.cW():p).d3(n)
 A.bC(r,s,!0)
-return A.tm(m,A.tB(new A.cJ(B.G,o,o,A.ew(o,A.hK(A.b([B.SG,B.b2,A.aso(new A.a8X(),new A.re(q,A.r5(new A.ce(r))).aia(),t.T0)],l),B.b7,B.L,B.al),B.u,B.la,o,o,o,o,B.eb,o,o,o),o),o),o)}}
+return A.tm(m,A.tB(new A.cJ(B.G,o,o,A.ew(o,A.hK(A.b([B.SH,B.b2,A.aso(new A.a8X(),new A.re(q,A.r5(new A.ce(r))).aia(),t.T0)],l),B.b7,B.L,B.al),B.u,B.la,o,o,o,o,B.eb,o,o,o),o),o),o)}}
 A.a8V.prototype={
 $3(a,b,c){var s=null,r=b.a,q=r==null?s:r.c
 return A.c9(q==null?"Anonymous":q,s,s,s,B.cb,s,s)},
@@ -84100,16 +84100,16 @@ B.SN=new A.bE("No jobs found.",null,null,null,null,null,null,null,null)
 B.iq=new A.fm(B.G,null,null,B.SN,null)
 B.bJ=new A.h8(6)
 B.yI=new A.j(!0,null,null,null,null,null,24,B.bJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SE=new A.bE("Join as a Client or Freelancer",null,B.yI,null,null,null,null,null,null)
-B.Bi=new A.fm(B.G,null,null,B.SE,null)
+B.SF=new A.bE("Join as a Client or Freelancer",null,B.yI,null,null,null,null,null,null)
+B.Bi=new A.fm(B.G,null,null,B.SF,null)
 B.Ss=new A.bE("Log in to Upwork Freelance",null,B.yI,null,null,null,null,null,null)
 B.Bj=new A.fm(B.G,null,null,B.Ss,null)
-B.SC=new A.bE("Error occured.",null,null,null,null,null,null,null,null)
-B.ir=new A.fm(B.G,null,null,B.SC,null)
+B.SD=new A.bE("Error occured.",null,null,null,null,null,null,null,null)
+B.ir=new A.fm(B.G,null,null,B.SD,null)
 B.Bk=new A.wi(null,null,null,null,null,null,null,null,null)
 B.Bl=new A.qs(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.hL=new A.j(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SD=new A.bE("Completed",null,B.hL,null,null,null,null,null,null)
+B.SE=new A.bE("Completed",null,B.hL,null,null,null,null,null,null)
 B.u=new A.qx(0,"none")
 B.Cj=new A.m(4293457385)
 B.Cd=new A.m(4291356361)
@@ -84123,7 +84123,7 @@ B.BN=new A.m(4281236786)
 B.BH=new A.m(4279983648)
 B.IP=new A.cC([50,B.Cj,100,B.Cd,200,B.C8,300,B.C4,400,B.C0,500,B.BX,600,B.BV,700,B.BR,800,B.BN,900,B.BH],t.pl)
 B.ez=new A.rH(B.IP,4283215696)
-B.lu=new A.qr(B.SD,null,B.ez,null)
+B.lu=new A.qr(B.SE,null,B.ez,null)
 B.SP=new A.bE("Open",null,B.hL,null,null,null,null,null,null)
 B.lS=new A.m(4293128957)
 B.lO=new A.m(4290502395)
@@ -86169,8 +86169,8 @@ B.Ob=new A.eF(9,"join")
 B.Oc=new A.my(0,null,null)
 B.Od=new A.my(10,null,null)
 B.kp=new A.my(1,null,null)
-B.yE=new A.my(2,!1,!1)
-B.Oe=new A.my(5,null,null)
+B.Oe=new A.my(2,!1,!1)
+B.yE=new A.my(5,null,null)
 B.r=new A.MA(1,"even")
 B.Of=new A.tP(1,"fade")
 B.aP=new A.tP(2,"ellipsis")
@@ -86456,22 +86456,22 @@ B.R5=new A.j(!0,B.l,null,"Roboto",B.N,null,null,null,null,null,null,null,null,nu
 B.Sq=new A.dd(B.RT,B.P0,B.Q_,B.QV,B.R7,B.Or,B.Pz,B.Ov,B.QF,B.Rk,B.Q9,B.Rm,B.Rx,B.QW,B.R5)
 B.yL=new A.bE("Sign Up",null,null,null,null,null,null,null,null)
 B.Sr=new A.bE("Log In",null,null,null,null,null,null,null,null)
+B.St=new A.bE("Don't have an Upwork account? ",null,null,null,null,null,null,null,null)
 B.yK=new A.j(!0,B.ez,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.St=new A.bE("Sign Up Now",null,B.yK,null,null,null,null,null,null)
-B.Su=new A.bE("Log In",null,B.yK,null,null,null,null,null,null)
-B.Sv=new A.bE("No",null,null,null,null,null,null,null,null)
-B.Sw=new A.bE("Freelancer",null,B.hL,null,null,null,null,null,null)
-B.Sx=new A.bE("Client",null,B.hL,null,null,null,null,null,null)
-B.Sy=new A.bE("Already have an account?",null,null,null,null,null,null,null,null)
-B.Sz=new A.bE("Login",null,null,null,null,null,null,null,null)
-B.SA=new A.bE("Post New Job",null,null,null,null,null,null,null,null)
-B.SB=new A.bE("Post new job",null,null,null,null,null,null,null,null)
+B.Su=new A.bE("Sign Up Now",null,B.yK,null,null,null,null,null,null)
+B.Sv=new A.bE("Log In",null,B.yK,null,null,null,null,null,null)
+B.Sw=new A.bE("No",null,null,null,null,null,null,null,null)
+B.Sx=new A.bE("Freelancer",null,B.hL,null,null,null,null,null,null)
+B.Sy=new A.bE("Client",null,B.hL,null,null,null,null,null,null)
+B.Sz=new A.bE("Already have an account?",null,null,null,null,null,null,null,null)
+B.SA=new A.bE("Login",null,null,null,null,null,null,null,null)
+B.SB=new A.bE("Post New Job",null,null,null,null,null,null,null,null)
+B.SC=new A.bE("Post new job",null,null,null,null,null,null,null,null)
 B.yM=new A.bE("My Jobs",null,null,null,null,null,null,null,null)
-B.SF=new A.bE("Accept Job",null,null,null,null,null,null,null,null)
-B.SG=new A.bE("Manage Jobs",null,B.ks,null,null,null,null,null,null)
+B.SG=new A.bE("Accept Job",null,null,null,null,null,null,null,null)
+B.SH=new A.bE("Manage Jobs",null,B.ks,null,null,null,null,null,null)
 B.yN=new A.bE("Back",null,null,null,null,null,null,null,null)
-B.SH=new A.bE("Yes",null,null,null,null,null,null,null,null)
-B.SI=new A.bE("Don't have an Upwork Freelance account? ",null,null,null,null,null,null,null,null)
+B.SI=new A.bE("Yes",null,null,null,null,null,null,null,null)
 B.yO=new A.bE("Logout",null,null,null,null,null,null,null,null)
 B.SJ=new A.bE("Did you complete the job with all requirements fullfiled?",null,null,null,null,null,null,null,null)
 B.SL=new A.bE("Please provide a brief description of your project requirements",null,null,null,null,null,null,null,null)
