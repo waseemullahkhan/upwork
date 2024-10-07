@@ -80540,8 +80540,8 @@ J(a){var s,r,q,p,o=this,n=null,m=A.lL("resources/images/upwork-freelance-1.png",
 m=A.ll(A.b([A.qK(new A.akE(),t.d),B.c8,A.kd(n,B.ei,n,new A.akF(a),n,n)],l),B.cn,n,m)
 s=A.dW(A.b([B.mJ,B.aN,A.c9("New Project Launch",n,n,n,B.Qm,n,n)],l),B.N,B.I,B.as)
 r=A.pq(o.f,B.EP,n,1,n,!1,new A.akG())
-q=A.pq(o.e,B.EO,B.Om,10,5,!1,new A.akH())
-p=A.pq(o.r,B.EM,n,1,n,!1,new A.akI())
+q=A.pq(o.e,B.EO,n,10,5,!1,new A.akH())
+p=A.pq(o.r,B.EM,B.Om,1,n,!1,new A.akI())
 return A.tn(m,A.tC(new A.cJ(B.G,n,n,A.XG(A.ew(n,A.arz(A.h2(A.b([B.b3,s,B.aN,B.SV,B.b3,r,B.aN,q,B.aN,p,B.eh,o.w?B.d1:A.dW(A.b([A.fq(B.yP,new A.akJ(a),B.f8),B.c8,A.fq(B.SZ,new A.akK(o,a),B.f8)],l),B.N,B.de,B.as),B.b3],l),B.b0,B.I,B.al),o.d),B.u,B.f7,n,n,n,n,B.ed,n,n,n),B.ec),n),n),n)}}
 A.akE.prototype={
 $3(a,b,c){var s=null,r=b.a,q=r==null?s:r.c
